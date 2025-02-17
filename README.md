@@ -57,8 +57,9 @@ library-database/
 The database consists of the following tables:  
 
 ### **ER Diagram**
-<img src="https://github.com/mrowurakwarteng/library-management-system/blob/main/images/ERD.png">
-*Visual representation of the database structure and relationships.* nb
+<img src="https://github.com/DataAnalysisHub/library-management-system/blob/main/images/ERD.png">
+
+_Visual representation of the database structure and relationships_
 
 ### **Authors**  
 - `AuthorID`: Unique identifier for each author.  
