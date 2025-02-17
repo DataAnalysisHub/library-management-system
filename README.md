@@ -1,6 +1,6 @@
-# **LibraryDB: A Comprehensive Library Management System**
+# **Library Management System**
 
-Welcome to **LibraryDB**, a robust and scalable library management system built using SQL. This project is designed to manage books, authors, members, loans, and reservations efficiently. It includes advanced features like stored procedures, triggers, events, and functions to automate and streamline library operations.
+This project built with SQL, is designed to manage books, authors, members, loans, and reservations efficiently. It includes advanced features like stored procedures, triggers, events, and functions to automate and streamline library operations.
 
 ---
 
